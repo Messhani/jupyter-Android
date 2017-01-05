@@ -12,10 +12,10 @@ call plug#begin('~/.vim/plugged')
 " Plugins are downloaded from Github (username/repo)
 
 Plug 'lervag/vimtex'
-Plug 'vim-airline/vim-airline'
+" Plug 'vim-airline/vim-airline'
 Plug 'tpope/vim-fugitive'
 Plug 'scrooloose/nerdcommenter'
-Plug 'airblade/vim-gitgutter'
+" Plug 'airblade/vim-gitgutter'
 Plug 'tweekmonster/braceless.vim', {'for': ['python']}
 
 call plug#end()
