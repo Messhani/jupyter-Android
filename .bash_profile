@@ -178,3 +178,5 @@ source ~/.autoenv/activate.sh
 
 # Enable git bash completion on Termux
 source .git-completion.bash
+# Make the jupyter notebook open a browser tab
+export BROWSER=termux-open-url
